@@ -1,0 +1,53 @@
+:P - :P - :P - :P - :P - :P - :P - :P - :P - :P - 
+features mais correlacionadas com a 'nota_c3'
+:P - :P - :P - :P - :P - :P - :P - :P - :P - :P - 
+<bound method NDFrame.head of                                              correlacao  correlacao_abs
+projeto_texto                                  0.986951        0.986951
+palavras_unicas_sem_sw                         0.441325        0.441325
+palavras_unicas_com_sw                         0.434979        0.434979
+total_palavras_sem_sw                          0.434919        0.434919
+n_substantivos                                 0.433512        0.433512
+n_preposicoes                                  0.428134        0.428134
+total_palavras_com_sw                          0.419606        0.419606
+n_pontuacoes                                   0.396241        0.396241
+n_adjetivos                                    0.384858        0.384858
+n_determinantes                                0.359856        0.359856
+n_marcadores_exatos                            0.296322        0.296322
+total_sentencas                                0.292950        0.292950
+n_verbos                                       0.287951        0.287951
+diversidade_deps                               0.284753        0.284753
+similaridade_redacao_tema                      0.282157        0.282157
+diversidade_entidades                          0.273166        0.273166
+sentencas_argumentacao                         0.272236        0.272236
+n_oracoes_subordinadas                         0.247363        0.247363
+n_entidades_total                              0.246510        0.246510
+diversidade_lexical_com_sw                    -0.240766        0.240766
+n_nomes_proprios                               0.240002        0.240002
+similaridade_sentencas_argumentativas_max      0.236931        0.236931
+media_palavras_paragrafo_sem_sw                0.222539        0.222539
+n_conj_subordinadas                            0.208853        0.208853
+n_mark                                         0.205678        0.205678
+similaridade_sentencas_argumentativas_media    0.205265        0.205265
+media_palavras_paragrafo_com_sw                0.203620        0.203620
+sentencas_conclusao                            0.200189        0.200189
+n_adverbios                                    0.184820        0.184820
+n_cc                                           0.184411        0.184411
+n_auxiliares                                   0.155459        0.155459
+n_conj_coordenadas                             0.153857        0.153857
+n_conj                                         0.148820        0.148820
+similaridade_sentencas_argumentativas_min      0.144425        0.144425
+sentencas_introducao                           0.118776        0.118776
+profundidade_minima_sentencas                 -0.112288        0.112288
+similaridade_sentencas_argumentativas_std      0.111785        0.111785
+n_pronomes                                     0.097771        0.097771
+profundidade_maxima_sentencas                  0.086091        0.086091
+paragrafos_conclusao                           0.081560        0.081560
+diversidade_lexical_sem_sw                    -0.080769        0.080769
+total_paragrafos                               0.059250        0.059250
+paragrafos_argumentacao                        0.050912        0.050912
+media_palavras_sentenca_com_sw                -0.050509        0.050509
+media_palavras_sentenca_sem_sw                -0.029325        0.029325
+profundidade_media_sentencas                  -0.027940        0.027940
+n_marcadores_semanticos                       -0.017751        0.017751
+n_discourse                                    0.007146        0.007146>
+mapa de calor de correlações
